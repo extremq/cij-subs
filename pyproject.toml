@@ -1,0 +1,11 @@
+[project]
+name = "cij-subs"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.12.2",
+    "requests>=2.32.5",
+    "sanitize-filename>=1.2.0",
+]
